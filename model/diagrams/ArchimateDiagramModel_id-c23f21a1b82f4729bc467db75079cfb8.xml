@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="6. Procesos de DGAAM"
-    id="id-c23f21a1b82f4729bc467db75079cfb8"/>
+    name="6. Procesos de DGAAM - AS IS"
+    id="id-c23f21a1b82f4729bc467db75079cfb8">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-fd12731e233e4502afd28fd5663e1d43">
+    <bounds
+        x="96"
+        y="48"
+        width="168"
+        height="91"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-4d7f2464420040749cf708b25e828f47.xml#id-4d7f2464420040749cf708b25e828f47"/>
+  </children>
+</archimate:ArchimateDiagramModel>
