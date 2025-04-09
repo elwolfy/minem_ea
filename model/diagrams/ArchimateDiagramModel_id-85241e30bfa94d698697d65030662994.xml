@@ -1,4 +1,41 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="10. Arquitectura Tecnológica - AS IS"
-    id="id-85241e30bfa94d698697d65030662994"/>
+    id="id-85241e30bfa94d698697d65030662994">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d41677113c8d4ccab9944163fb50589e"
+      textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-5a8d634f3e6c44719370429146c5e09b"
+        source="id-d41677113c8d4ccab9944163fb50589e"
+        target="id-6b8bf8ad735a49c887e384310f81e985">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-84f7726f05b442eeb563abe2e5d47d60.xml#id-84f7726f05b442eeb563abe2e5d47d60"/>
+    </sourceConnections>
+    <bounds
+        x="108"
+        y="12"
+        width="709"
+        height="241"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-6b8bf8ad735a49c887e384310f81e985"
+        targetConnections="id-5a8d634f3e6c44719370429146c5e09b">
+      <bounds
+          x="67"
+          y="100"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Node"
+          href="Node_id-ed0947998ddf4fe4a806053db190d87f.xml#id-ed0947998ddf4fe4a806053db190d87f"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-4d0f5c168b7c46f9bca93d996b5b1e9f.xml#id-4d0f5c168b7c46f9bca93d996b5b1e9f"/>
+  </children>
+</archimate:ArchimateDiagramModel>
