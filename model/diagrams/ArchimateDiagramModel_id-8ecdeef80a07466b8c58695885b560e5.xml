@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="5. Procesos de DGM"
+    id="id-8ecdeef80a07466b8c58695885b560e5">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9561e574ea11485d9247fd5afe760250">
+    <bounds
+        x="109"
+        y="81"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-f29e92960870403698069d4c9c739104.xml#id-f29e92960870403698069d4c9c739104"/>
+  </children>
+</archimate:ArchimateDiagramModel>
