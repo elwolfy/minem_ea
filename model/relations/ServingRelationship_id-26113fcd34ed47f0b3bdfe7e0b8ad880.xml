@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Necesidades de promoción del sector"
+    id="id-26113fcd34ed47f0b3bdfe7e0b8ad880">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-ecf233980df148d584483a3a7f5c1671.xml#id-ecf233980df148d584483a3a7f5c1671"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-883fa8dcca1f4d1e807eeb3ed57ac000.xml#id-883fa8dcca1f4d1e807eeb3ed57ac000"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contrato de inversión en la etapa pre operativa"
+    id="id-4a5ab6101829444f945425cd30d3ca21">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-040cd53783bc485ab6c23858e7e24110.xml#id-040cd53783bc485ab6c23858e7e24110"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-d1bb51d749ed489c8a07c5c850c95902.xml#id-d1bb51d749ed489c8a07c5c850c95902"/>
+</archimate:ServingRelationship>

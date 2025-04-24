@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oficio y documentación en medio magnético"
+    id="id-5e6d4bae201c4fdb9c1ec286cf26fa25">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-522f891966c24bf0b5eb77a875e1f293.xml#id-522f891966c24bf0b5eb77a875e1f293"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-63a4ac919def47e5ba9619586a98684c.xml#id-63a4ac919def47e5ba9619586a98684c"/>
+</archimate:ServingRelationship>

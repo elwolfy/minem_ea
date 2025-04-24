@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Derechos otorgados o denegados"
+    id="id-27a291cb427f452aa1b15aef351e4976">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-0ce788e9cf9c4e0082c4558fb015bb8d.xml#id-0ce788e9cf9c4e0082c4558fb015bb8d"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_id-27d0efbba77945b9a9199d19f763521e.xml#id-27d0efbba77945b9a9199d19f763521e"/>
+</archimate:ServingRelationship>

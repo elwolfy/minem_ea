@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proyectos de inversión privada en el sector"
+    id="id-48193b4609744c778109a79523878fa9">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-883fa8dcca1f4d1e807eeb3ed57ac000.xml#id-883fa8dcca1f4d1e807eeb3ed57ac000"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_id-d3cd14bca2914068bdfd2c730b6113e3.xml#id-d3cd14bca2914068bdfd2c730b6113e3"/>
+</archimate:ServingRelationship>

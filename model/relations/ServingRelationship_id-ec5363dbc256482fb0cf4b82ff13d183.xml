@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resolución Directoral de Aprobación de la Inscripción o de Abandono de procedimiento"
+    id="id-ec5363dbc256482fb0cf4b82ff13d183">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-6f783908d2aa4f5b87c766b2c321c513.xml#id-6f783908d2aa4f5b87c766b2c321c513"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-864dbcc6f9dd422f9d60e1725ff23edf.xml#id-864dbcc6f9dd422f9d60e1725ff23edf"/>
+</archimate:ServingRelationship>

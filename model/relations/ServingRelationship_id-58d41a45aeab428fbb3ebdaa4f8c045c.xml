@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decreto Supremo que Autoriza adquirir derechos mineros en zona de frontera"
+    id="id-58d41a45aeab428fbb3ebdaa4f8c045c">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-32f9ed3e8e444eae9e2dbe870ee62088.xml#id-32f9ed3e8e444eae9e2dbe870ee62088"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-864dbcc6f9dd422f9d60e1725ff23edf.xml#id-864dbcc6f9dd422f9d60e1725ff23edf"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Politicas y normas"
+    id="id-16c92797482f432c9af1ab31b428590a">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-e7bb59505e894686ae66892108613b36.xml#id-e7bb59505e894686ae66892108613b36"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-0ce788e9cf9c4e0082c4558fb015bb8d.xml#id-0ce788e9cf9c4e0082c4558fb015bb8d"/>
+</archimate:ServingRelationship>

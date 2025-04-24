@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contrato de garantía y medidas de promoci´´on 15 años"
+    id="id-d7c8bbdb1e90412c8dd15a35d53c4b2e">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-abe0d62d98454697bfa34f2839613c3f.xml#id-abe0d62d98454697bfa34f2839613c3f"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-320ed74fbdcb4e9f8615852cb09a630e.xml#id-320ed74fbdcb4e9f8615852cb09a630e"/>
+</archimate:ServingRelationship>

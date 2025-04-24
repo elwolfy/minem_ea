@@ -515,18 +515,6 @@
           y="48"
           width="312"
           height="140"/>
-      <children
-          xsi:type="archimate:DiagramModelReference"
-          id="id-df77543cd20647e1bd73239720992b2d">
-        <bounds
-            x="24"
-            y="24"
-            width="264"
-            height="108"/>
-        <referencedModel
-            xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-ea3ee92222b042ae9ec43aa068cce523.xml#id-ea3ee92222b042ae9ec43aa068cce523"/>
-      </children>
       <archimateElement
           xsi:type="archimate:Grouping"
           href="Grouping_id-5a236be6a4374f53a59823eef6f84c02.xml#id-5a236be6a4374f53a59823eef6f84c02"/>

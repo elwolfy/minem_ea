@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solicitud segun formato y requisitos"
+    id="id-578e767f3d5f4bbc9328f853160f9551"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-864dbcc6f9dd422f9d60e1725ff23edf.xml#id-864dbcc6f9dd422f9d60e1725ff23edf"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-c466d60b6ede449a9131a7ab6f2682c4.xml#id-c466d60b6ede449a9131a7ab6f2682c4"/>
+</archimate:AssociationRelationship>
