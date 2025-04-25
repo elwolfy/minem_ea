@@ -24,11 +24,20 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-de69283ad2434ce8bc67f9a25c0333e0.xml#id-de69283ad2434ce8bc67f9a25c0333e0"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-a0147fcecb284036af16da5b8c5a150e"
+        source="id-8f41d6779073461689835cadce3a0a91"
+        target="id-507d352313f940f495b28a28d2b65f7f">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-588352a7f8c24bd691603017d056d1d4.xml#id-588352a7f8c24bd691603017d056d1d4"/>
+    </sourceConnections>
     <bounds
         x="252"
         y="84"
-        width="613"
-        height="181"/>
+        width="709"
+        height="169"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-971db4337847435c873e94e97d55d3b2"
@@ -36,8 +45,8 @@
       <bounds
           x="40"
           y="44"
-          width="177"
-          height="101"/>
+          width="157"
+          height="77"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-e1e8b43ff24b4baab6256bbdee6a60e4.xml#id-e1e8b43ff24b4baab6256bbdee6a60e4"/>
@@ -50,19 +59,32 @@
           x="228"
           y="44"
           width="157"
-          height="101"/>
+          height="77"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-f85fc124fa744326a5ac3d7f73a41f28.xml#id-f85fc124fa744326a5ac3d7f73a41f28"/>
     </children>
     <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-507d352313f940f495b28a28d2b65f7f"
+        targetConnections="id-a0147fcecb284036af16da5b8c5a150e">
+      <bounds
+          x="397"
+          y="44"
+          width="157"
+          height="77"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-7402bc7866eb4ddc9ddce9caf7bc8b45.xml#id-7402bc7866eb4ddc9ddce9caf7bc8b45"/>
+    </children>
+    <children
         xsi:type="archimate:DiagramModelReference"
         id="id-24c975dd43cf47e2a8a566203643d71b">
       <bounds
-          x="396"
-          y="46"
-          width="168"
-          height="97"/>
+          x="504"
+          y="96"
+          width="169"
+          height="61"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-83db00ba2a0044b98852d457d3f36990.xml#id-83db00ba2a0044b98852d457d3f36990"/>
