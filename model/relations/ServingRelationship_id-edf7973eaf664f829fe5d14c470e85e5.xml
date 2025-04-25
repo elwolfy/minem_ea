@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resolución Directoral que aprueba cumplimiento"
+    id="id-edf7973eaf664f829fe5d14c470e85e5">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-3b062cb52c5142b1ac194e01b69401b9.xml#id-3b062cb52c5142b1ac194e01b69401b9"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-864dbcc6f9dd422f9d60e1725ff23edf.xml#id-864dbcc6f9dd422f9d60e1725ff23edf"/>
+</archimate:ServingRelationship>

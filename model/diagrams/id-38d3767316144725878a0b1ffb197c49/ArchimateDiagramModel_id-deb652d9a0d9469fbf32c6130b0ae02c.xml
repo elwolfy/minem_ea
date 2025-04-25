@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="M01. Gestión de Políticas y Normas"
+    id="id-deb652d9a0d9469fbf32c6130b0ae02c">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-31ebdcef2ff04b17b6a15240e16fe037">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-9d1ace90d44349228a0b85e8d6e8bb9b"
+        source="id-31ebdcef2ff04b17b6a15240e16fe037"
+        target="id-eb217786aa6b48fa959bf2d0bb9f8981">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-439e1d66af3641cfa147cea918f8c1fe.xml#id-439e1d66af3641cfa147cea918f8c1fe"/>
+    </sourceConnections>
+    <bounds
+        x="84"
+        y="48"
+        width="601"
+        height="361"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-eb217786aa6b48fa959bf2d0bb9f8981"
+        targetConnections="id-9d1ace90d44349228a0b85e8d6e8bb9b">
+      <bounds
+          x="38"
+          y="44"
+          width="191"
+          height="125"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-591ff66da8344fc684774b0d97c43bd7.xml#id-591ff66da8344fc684774b0d97c43bd7"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-e7bb59505e894686ae66892108613b36.xml#id-e7bb59505e894686ae66892108613b36"/>
+  </children>
+</archimate:ArchimateDiagramModel>

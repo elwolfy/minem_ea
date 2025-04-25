@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modificaciones de concesiones y autorizaciones"
+    id="id-8400d3d7d11245a996d8d96eae1748f0">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-0ce788e9cf9c4e0082c4558fb015bb8d.xml#id-0ce788e9cf9c4e0082c4558fb015bb8d"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-506f8220b9c8455db09d5cacbc03c3b7.xml#id-506f8220b9c8455db09d5cacbc03c3b7"/>
+</archimate:ServingRelationship>

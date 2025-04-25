@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brechas sociales cerradas"
+    id="id-72d26c2d82e34e5780852ff41037c3c6">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-73e0c4cb3dab4c89b70b51dc0e6944ca.xml#id-73e0c4cb3dab4c89b70b51dc0e6944ca"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_id-d95e3d32908d425b821bf2b20a6ee502.xml#id-d95e3d32908d425b821bf2b20a6ee502"/>
+</archimate:ServingRelationship>

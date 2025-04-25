@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grupos de interés competentes"
+    id="id-3434eadbc9e14f12bd5da92fe28e00c7">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-b723ce4248404fd99c802bc636411717.xml#id-b723ce4248404fd99c802bc636411717"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_id-8e0cbc400997466685e507c7d245edb2.xml#id-8e0cbc400997466685e507c7d245edb2"/>
+</archimate:ServingRelationship>

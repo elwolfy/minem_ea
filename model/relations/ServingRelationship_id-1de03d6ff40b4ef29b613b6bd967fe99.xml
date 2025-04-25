@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contrato de aprobación o modificación del programa de inversión"
+    id="id-1de03d6ff40b4ef29b613b6bd967fe99">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-f09a28bfdd0a4a37a5adea8c1bf46e5b.xml#id-f09a28bfdd0a4a37a5adea8c1bf46e5b"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-37e75c4b203545a09d52959931fa532c.xml#id-37e75c4b203545a09d52959931fa532c"/>
+</archimate:ServingRelationship>

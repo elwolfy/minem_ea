@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Demanda de servicios y procedimientos"
+    id="id-c53f0db5ad6d4bc1a30bdb6acf2b3330">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-0ce788e9cf9c4e0082c4558fb015bb8d.xml#id-0ce788e9cf9c4e0082c4558fb015bb8d"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-b723ce4248404fd99c802bc636411717.xml#id-b723ce4248404fd99c802bc636411717"/>
+</archimate:ServingRelationship>

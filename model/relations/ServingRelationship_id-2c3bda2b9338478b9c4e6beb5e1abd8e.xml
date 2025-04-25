@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brechas sociales del sector"
+    id="id-2c3bda2b9338478b9c4e6beb5e1abd8e">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-58c64f82f33141e59ce616c9837c82d1.xml#id-58c64f82f33141e59ce616c9837c82d1"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-73e0c4cb3dab4c89b70b51dc0e6944ca.xml#id-73e0c4cb3dab4c89b70b51dc0e6944ca"/>
+</archimate:ServingRelationship>

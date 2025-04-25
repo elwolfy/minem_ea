@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oficio que contiene Resolución Directoral que sustenta informe final sobre ejecución del contrato"
+    id="id-85e0a88fe7e743c282ca4fda74e55bd6">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-63a4ac919def47e5ba9619586a98684c.xml#id-63a4ac919def47e5ba9619586a98684c"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-522f891966c24bf0b5eb77a875e1f293.xml#id-522f891966c24bf0b5eb77a875e1f293"/>
+</archimate:ServingRelationship>
