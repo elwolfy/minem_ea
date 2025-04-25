@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Otorgamiento de Concesiones y Autorizaciones"
-    id="id-724b47babca049a186481b4ecc8a0ac1"/>
+    name="C3.1 Evaluación de Solicitudes de Derechos "
+    id="id-724b47babca049a186481b4ecc8a0ac1"
+    documentation="Analiza técnicamente las solicitudes para actividades extractivas o energéticas, verificando requisitos legales y técnicos. "/>

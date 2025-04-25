@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Supervisión Técnica Normativa"
-    id="id-3e8e5b538d0e4ed7947b7938aad4641e"/>
+    name="C4.1 Supervisión Técnica y Ambiental"
+    id="id-3e8e5b538d0e4ed7947b7938aad4641e"
+    documentation="Ejecuta inspecciones técnicas, revisiones documentarias y verificaciones en campo de las condiciones operativas y ambientales"/>

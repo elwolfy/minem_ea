@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Seguimiento Ambiental y Correctivos"
-    id="id-57141dd8ac9c409b8f5b78c62047c5bd"/>
+    name="C6.2 Seguimiento y Monitoreo Ambiental"
+    id="id-57141dd8ac9c409b8f5b78c62047c5bd"
+    documentation="Supervisa el cumplimiento de compromisos ambientales, realiza visitas y análisis de indicadores ambientales"/>

@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Emisión de Normas Técnicas y Administrativas"
-    id="id-974b34cdf1e74b07a370c3f08780fbe0"/>
+    name="C2.1 Emisión de Normas Técnicas"
+    id="id-974b34cdf1e74b07a370c3f08780fbe0"
+    documentation="Emitir disposiciones normativas y técnicas para regular las actividades del sector energético y minero.&#xD;&#xA;Elabora regulaciones técnicas vinculadas a actividades específicas de energía y minería, como seguridad, operación y calidad."/>
