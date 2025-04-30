@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datawarehouse con capacidades BI, ML e IA"
+    id="id-7319f2cecf67450e8433dd4f1886326e"
+    documentation="Infraestructura de datos centralizada que permita almacenar, procesar y analizar grandes volúmenes de datos del sector minero, soportando la toma de decisiones mediante inteligencia de negocios, aprendizaje automático y análisis predictivo."/>
