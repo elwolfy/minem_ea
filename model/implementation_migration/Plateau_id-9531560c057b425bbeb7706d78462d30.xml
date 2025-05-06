@@ -1,0 +1,5 @@
+<archimate:Plateau
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Línea base de gobierno y transformacion digital del MINEM(2026)"
+    id="id-9531560c057b425bbeb7706d78462d30"
+    documentation="La arquitectura que predomina en las aplicaciones de RENIEC es una arquitectura de 3 capas basadas en desarrollo de aplicaciones que se despliegan sobre servidores de aplicaciones. Actualmente, no poseen capacidades técnicas empresariales para que permitan un gobierno de los procesos, API, servicios y demás componentes. Se carece de lineamientos y prácticas de gobierno que guíen sobre el uso correcto de las herramientas correctas. Las mayores brechas detectadas son en las capas de procesos / coreografías de negocio, reglas de negocio e integraciones. "/>
