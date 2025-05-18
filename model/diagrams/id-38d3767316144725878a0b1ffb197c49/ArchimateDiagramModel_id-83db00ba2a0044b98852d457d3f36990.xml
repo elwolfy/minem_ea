@@ -142,7 +142,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-ceb1c75d012741309e781e3e1324c0ef"
-          targetConnections="id-c75c6a0270f34c3a96499c4d94526573">
+          targetConnections="id-c75c6a0270f34c3a96499c4d94526573"
+          fillColor="#ff8000">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-810eadbaed884ac495770a6e5f2665b1"
